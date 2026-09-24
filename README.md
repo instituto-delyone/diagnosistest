@@ -1,0 +1,2 @@
+# diagnosistest
+testing diagnosis features
